@@ -1,20 +1,25 @@
-string pangram = "The quick brown fox jumps over the lazy dog";
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
 
-// split string into an array of words
-string[] words = pangram.Split(' ');
+//create an array of orders separated by commas
+string[] orders = orderStream.Split(',');
 
-// iterate over the array of words backwards
-// for (int i = words.Length - 1; i >= 0; i--)
-// iterate over the array of words forwards
-for (int i = 0; i < words.Length; i++)
+//for each of the orders in the stream count the number of characters
+foreach (string order in orders)
 {
-    char[] letters = words[i].ToCharArray();
-    //reverse the array of letters
-    Array.Reverse(letters);
-    //join the array of letters back into a string
-    string reversedWord = string.Join("", letters);
-    //print the reversed word
-    Console.Write(reversedWord);
-    // add a space after each word
-    Console.Write(" ");
+    // Console.WriteLine(order.Length);
+    //if order length is greater than 4, append "- Error" to the order
+    if (order.Length > 4)
+    {
+        Console.WriteLine(order + " - Error");
+    }
+    // if order length is less than 4, append "- Error to the order
+    else if (order.Length < 4)
+    {
+        Console.WriteLine(order + " - Error");
+    }
+    // output the order
+    else
+    {
+        Console.WriteLine(order);
+    }
 }
