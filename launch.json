@@ -1,0 +1,22 @@
+{
+    "configurations": [
+      {
+        "type": "coreclr",
+        "request": "launch",
+        "name": "Launch Program",
+        "program": "${workspaceFolder}/bin/Debug/net8.0/${input:executableName}.dll",
+        "preLaunchTask": "build"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "pickString",
+        "id": "executableName",
+        "description": "Select the executable to launch",
+        "options": [
+          "cs-challenge-project",
+          "Starter"
+        ]
+      }
+    ]
+  }

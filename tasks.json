@@ -1,0 +1,14 @@
+{
+    "tasks": [
+      {
+        "label": "build",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+          "build",
+          "${workspaceFolder}/cs-challenge-project.csproj"
+        ],
+        "problemMatcher": "$msCompile"
+      }
+    ]
+  }

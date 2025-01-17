@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\271fi\\Projects\\cs-challenge-project\\Starter.csproj",
-      "projectName": "Starter",
-      "projectPath": "C:\\Users\\271fi\\Projects\\cs-challenge-project\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\271fi\\Projects\\cs-challenge-project\\cs-challenge-project.csproj",
+      "projectName": "cs-challenge-project",
+      "projectPath": "C:\\Users\\271fi\\Projects\\cs-challenge-project\\cs-challenge-project.csproj",
       "packagesPath": "C:\\Users\\271fi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\271fi\\Projects\\cs-challenge-project\\obj\\",
       "projectStyle": "PackageReference",

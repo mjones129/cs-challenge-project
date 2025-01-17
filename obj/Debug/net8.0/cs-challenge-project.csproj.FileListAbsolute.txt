@@ -1,0 +1,15 @@
+C:\Users\271fi\Projects\cs-challenge-project\bin\Debug\net8.0\cs-challenge-project.exe
+C:\Users\271fi\Projects\cs-challenge-project\bin\Debug\net8.0\cs-challenge-project.deps.json
+C:\Users\271fi\Projects\cs-challenge-project\bin\Debug\net8.0\cs-challenge-project.runtimeconfig.json
+C:\Users\271fi\Projects\cs-challenge-project\bin\Debug\net8.0\cs-challenge-project.dll
+C:\Users\271fi\Projects\cs-challenge-project\bin\Debug\net8.0\cs-challenge-project.pdb
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.AssemblyInfoInputs.cache
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.AssemblyInfo.cs
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.csproj.CoreCompileInputs.cache
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.sourcelink.json
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.dll
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\refint\cs-challenge-project.dll
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.pdb
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\cs-challenge-project.genruntimeconfig.cache
+C:\Users\271fi\Projects\cs-challenge-project\obj\Debug\net8.0\ref\cs-challenge-project.dll
