@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: cs-challenge-project",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\cs-challenge-project.csproj",
+            "launchConfigurationId": "TargetFramework=;cs-challenge-project",
+        }
+    ]
+}
